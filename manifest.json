@@ -1,0 +1,16 @@
+
+{
+    "name": "Random Image API",
+    "short_name": "Random Image API",
+    "icons": [
+      {
+        "src": "icon.jpg",
+        "sizes": "209x209",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ddd",
+    "theme_color": "#333"
+  }
